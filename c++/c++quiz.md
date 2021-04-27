@@ -93,6 +93,7 @@ union {
 - [ ] 2 bytes
 
 [Reference](https://en.cppreference.com/w/cpp/language/union)
+[Reference](https://docs.oracle.com/cd/E19253-01/817-6223/chp-typeopexpr-2/index.html)
 
 #### Q8. Which of the following operators is overloadable?
 
